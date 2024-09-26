@@ -5,7 +5,7 @@
 
 public class element {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 4, 6, 8, 10};
+        int[] arr = {1, 2, 7, 6, 8, 10};
         int target = 5;
         int result = findSmallestGreater(arr, target);
         System.out.println(result);
